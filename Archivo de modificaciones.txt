@@ -9,3 +9,12 @@
 \f0\fs28 \cf0 \cb2 \expnd0\expndtw0\kerning0
 Este archivo ser\'e1 utilizado para emular modificaciones en el proyecto colaborativo.\
 Karla Ant\'f3n V\'e1zquez}
+
+Carolina Flores Luelmo 
+
+El repositorio remoto actualizado se puede encontrar en las url's
+
+
+https://github.com/karlaantonvz/tarea_colaborativo
+
+https://github.com/carofl6/tarea_colaborativo
